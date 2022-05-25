@@ -34,4 +34,3 @@
          weather.search();
      }
  });
- weather.fetchWeather("Hyderabad"); 
